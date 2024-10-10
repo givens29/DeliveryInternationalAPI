@@ -1,0 +1,593 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\models\\dishincart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\models\\dishincart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\models\\storageuserstokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\models\\storageuserstokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\models\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\models\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\models\\enums\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\models\\enums\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\services\\idishservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\services\\idishservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\services\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\services\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\dtos\\dishorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\dtos\\dishorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\migrations\\20231225085207_fourthcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\migrations\\20231225085207_fourthcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\migrations\\20231225075723_thirdcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\migrations\\20231225075723_thirdcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\migrations\\20231224201700_secondcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\migrations\\20231224201700_secondcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\migrations\\20231224112130_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\migrations\\20231224112130_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\dtos\\edituserprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\dtos\\edituserprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\dtos\\profileuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\dtos\\profileuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\models\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\models\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\models\\enums\\sorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\models\\enums\\sorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\configurations\\applicationrolenames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\configurations\\applicationrolenames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\configurations\\jwtbearertokensettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\configurations\\jwtbearertokensettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|e:\\tsu\\year3\\backend\\backend_deliveryinternational\\backend_deliveryinternational\\backend_deliveryinternational.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0F2DD6EA-5F19-4C37-AAB7-F1F67C87ABAF}|BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj|solutionrelative:backend_deliveryinternational\\backend_deliveryinternational.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Services\\IUserService.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Services\\IUserService.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Models\\Cart.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Models\\Cart.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Models\\Dish.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Models\\Dish.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Models\\Dish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DishInCart.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Models\\DishInCart.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Models\\DishInCart.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Models\\DishInCart.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Models\\DishInCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Models\\Rating.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Models\\Rating.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Models\\Rating.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Models\\Rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Models\\User.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Models\\User.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Models\\Order.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Models\\Order.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StorageUsersTokens.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Models\\StorageUsersTokens.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Models\\StorageUsersTokens.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Models\\StorageUsersTokens.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Models\\StorageUsersTokens.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Status.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Models\\Enums\\Status.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Models\\Enums\\Status.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Models\\Enums\\Status.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Models\\Enums\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Models\\Enums\\Category.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Models\\Enums\\Category.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Models\\Enums\\Category.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Models\\Enums\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDishService.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Services\\IDishService.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Services\\IDishService.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Services\\IDishService.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Services\\IDishService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBasketService.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Services\\IBasketService.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Services\\IBasketService.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Services\\IBasketService.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Services\\IBasketService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:34.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Services\\IOrderService.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Services\\IOrderService.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Services\\IOrderService.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:34.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwHEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DishOrderDto.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Dtos\\DishOrderDto.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Dtos\\DishOrderDto.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Dtos\\DishOrderDto.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Dtos\\DishOrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20231225085207_FourthCreate.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Migrations\\20231225085207_FourthCreate.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Migrations\\20231225085207_FourthCreate.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Migrations\\20231225085207_FourthCreate.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Migrations\\20231225085207_FourthCreate.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Controllers\\BasketController.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Controllers\\BasketController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:34.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Data\\DataContext.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Data\\DataContext.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:34.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Program.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Program.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Program.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAgwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:34.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Dtos\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Dtos\\CreateOrderDto.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Dtos\\CreateOrderDto.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Dtos\\CreateOrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:34.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:34.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20231225075723_ThirdCreate.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Migrations\\20231225075723_ThirdCreate.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Migrations\\20231225075723_ThirdCreate.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Migrations\\20231225075723_ThirdCreate.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Migrations\\20231225075723_ThirdCreate.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20231224201700_SecondCreate.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Migrations\\20231224201700_SecondCreate.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Migrations\\20231224201700_SecondCreate.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Migrations\\20231224201700_SecondCreate.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Migrations\\20231224201700_SecondCreate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20231224112130_InitialCreate.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Migrations\\20231224112130_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Migrations\\20231224112130_InitialCreate.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Migrations\\20231224112130_InitialCreate.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Migrations\\20231224112130_InitialCreate.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAH0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditUserProfileDto.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Dtos\\EditUserProfileDto.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Dtos\\EditUserProfileDto.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Dtos\\EditUserProfileDto.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Dtos\\EditUserProfileDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProfileUserDto.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Dtos\\ProfileUserDto.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Dtos\\ProfileUserDto.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Dtos\\ProfileUserDto.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Dtos\\ProfileUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Dtos\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Dtos\\LoginUserDto.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Dtos\\LoginUserDto.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Dtos\\LoginUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Models\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Models\\Enums\\Gender.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Models\\Enums\\Gender.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Models\\Enums\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Dtos\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Dtos\\RegisterUserDto.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Dtos\\RegisterUserDto.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Dtos\\RegisterUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\appsettings.json",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\appsettings.json",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\appsettings.json",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-26T06:54:35.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-26T06:54:35.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Sorting.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Models\\Enums\\Sorting.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Models\\Enums\\Sorting.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Models\\Enums\\Sorting.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Models\\Enums\\Sorting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApplicationRoleNames.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Configurations\\ApplicationRoleNames.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Configurations\\ApplicationRoleNames.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Configurations\\ApplicationRoleNames.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Configurations\\ApplicationRoleNames.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "JwtBearerTokenSettings.cs",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Configurations\\JwtBearerTokenSettings.cs",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\Configurations\\JwtBearerTokenSettings.cs",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\Configurations\\JwtBearerTokenSettings.cs",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\Configurations\\JwtBearerTokenSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:54:35.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BackEnd_DeliveryInternational.csproj",
+              "DocumentMoniker": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj",
+              "RelativeDocumentMoniker": "BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj",
+              "ToolTip": "E:\\TSU\\year3\\Backend\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj",
+              "RelativeToolTip": "BackEnd_DeliveryInternational\\BackEnd_DeliveryInternational.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-26T06:54:35.192Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
